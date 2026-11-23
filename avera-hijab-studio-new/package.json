@@ -1,0 +1,13 @@
+{
+  "name": "avera-hijab-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website katalog Avera Hijab Studio: Vercel + Supabase + RajaOngkir",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "test": "node tests/smoke.js && node tests/reports.js && node tests/stage71.js"
+  }
+}
